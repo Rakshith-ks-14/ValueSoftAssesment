@@ -1,0 +1,14 @@
+{
+  "url": "https://demoqa.com",
+  "get_all_book_api": "/BookStore/v1/Books",
+  "student_info": {
+    "first_name": "Rakshith",
+    "last_name": "KS",
+    "email": "rakshith@gmail.com",
+    "gender": "Male",
+    "mobile_no": 1234567890,
+    "year": 1996,
+    "month": "January",
+    "date": 14
+  }
+}
