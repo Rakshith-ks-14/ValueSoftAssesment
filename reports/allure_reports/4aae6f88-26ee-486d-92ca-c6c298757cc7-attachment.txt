@@ -1,0 +1,41 @@
+2026-05-03 11:52:57,940 | INFO | conftest | ======================================================================
+2026-05-03 11:52:57,940 | INFO | conftest | Initializing chrome browser
+2026-05-03 11:52:57,940 | INFO | conftest | ======================================================================
+2026-05-03 11:52:57,943 | INFO | conftest | ======================================================================
+2026-05-03 11:52:57,943 | INFO | conftest | Starting test :: test_form_field_validation[chrome] to verify checkbox
+2026-05-03 11:52:57,943 | INFO | conftest | ======================================================================
+2026-05-03 11:53:03,293 | INFO | POM.Base | Opening url: https://demoqa.com
+2026-05-03 11:53:08,745 | INFO | POM.Base | Waiting 10 seconds for https://demoqa.com visibility
+2026-05-03 11:53:08,789 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:12,984 | INFO | POM.Base | Waiting 10 seconds for Form Page visibility
+2026-05-03 11:53:13,032 | INFO | POM.Base | Successfully navigated to "Form" page
+2026-05-03 11:53:13,052 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:13,145 | INFO | POM.Base | Waiting 10 seconds for Practice Form visibility
+2026-05-03 11:53:13,202 | INFO | POM.Base | Successfully navigated to "Practice Form" page
+2026-05-03 11:53:13,229 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:13,899 | INFO | POM.Base | Filling First Name -> Rakshith and Last Name -> KS
+2026-05-03 11:53:13,920 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:14,096 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:14,244 | INFO | POM.Base | Filling Email ID -> abc123
+2026-05-03 11:53:14,259 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:14,398 | INFO | POM.Base | Filling Gender -> Male
+2026-05-03 11:53:14,410 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:14,511 | INFO | POM.Base | Filling Mobile No. -> 1234567890
+2026-05-03 11:53:14,528 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:14,715 | INFO | POM.Base | Filling Year -> 1996, Month -> January and Date -> 14
+2026-05-03 11:53:14,732 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:14,889 | INFO | POM.Base | Waiting 10 seconds for Select Option visibility
+2026-05-03 11:53:15,347 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:15,487 | INFO | POM.Base | Clicking submit button
+2026-05-03 11:53:15,549 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:15,703 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:16,843 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:17,026 | INFO | test_practice_form_steps | <PASSED>- Field name -> email showing error, changed color from -> gainsboro to -> crimson
+2026-05-03 11:53:17,026 | INFO | test_practice_form_steps | ======================================================================
+2026-05-03 11:53:17,026 | INFO | test_practice_form_steps | Successfully completed the test
+2026-05-03 11:53:17,026 | INFO | test_practice_form_steps | ======================================================================
+2026-05-03 11:53:17,028 | INFO | POM.Base | Waiting 10 seconds for Success Popup visibility
+2026-05-03 11:53:27,307 | INFO | test_practice_form_steps | <PASSED>- Success popup did not appeared
+2026-05-03 11:53:27,323 | INFO | conftest | ======================================================================
+2026-05-03 11:53:27,323 | INFO | conftest | Closing chrome browser
+2026-05-03 11:53:27,323 | INFO | conftest | ======================================================================

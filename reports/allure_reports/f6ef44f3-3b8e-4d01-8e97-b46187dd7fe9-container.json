@@ -1,0 +1,1 @@
+{"uuid": "9eec7e7b-055a-4fe0-ac17-515d0dca8273", "befores": [{"name": "pytestbdd_stepdef_when_the user enters empty/invalid data \"{invalid_data}\" in the \"{field_name}\" field", "status": "passed", "start": 1777823593202, "stop": 1777823593204}], "start": 1777823593202, "stop": 1777823607323}

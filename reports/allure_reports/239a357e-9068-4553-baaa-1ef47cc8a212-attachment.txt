@@ -1,0 +1,41 @@
+[32mINFO    [0m conftest:conftest.py:20 ======================================================================
+[32mINFO    [0m conftest:conftest.py:21 Initializing chrome browser
+[32mINFO    [0m conftest:conftest.py:22 ======================================================================
+[32mINFO    [0m conftest:conftest.py:24 ======================================================================
+[32mINFO    [0m conftest:conftest.py:25 Starting test :: test_form_field_validation[chrome] to verify checkbox
+[32mINFO    [0m conftest:conftest.py:26 ======================================================================
+[32mINFO    [0m POM.Base:Base.py:22 Opening url: https://demoqa.com
+[32mINFO    [0m POM.Base:Base.py:32 Waiting 10 seconds for https://demoqa.com visibility
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m POM.Base:Base.py:32 Waiting 10 seconds for Form Page visibility
+[32mINFO    [0m POM.Base:Form.py:37 Successfully navigated to "Form" page
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m POM.Base:Base.py:32 Waiting 10 seconds for Practice Form visibility
+[32mINFO    [0m POM.Base:Form.py:45 Successfully navigated to "Practice Form" page
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m POM.Base:Form.py:48 Filling First Name -> Rakshith and Last Name -> KS
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m POM.Base:Form.py:53 Filling Email ID -> abc123
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m POM.Base:Form.py:57 Filling Gender -> Male
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m POM.Base:Form.py:62 Filling Mobile No. -> 1234567890
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m POM.Base:Form.py:87 Filling Year -> 1996, Month -> January and Date -> 14
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m POM.Base:Base.py:32 Waiting 10 seconds for Select Option visibility
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m POM.Base:Form.py:96 Clicking submit button
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m POM.Base:Base.py:52 Waiting 10 seconds for element click ability
+[32mINFO    [0m test_practice_form_steps:test_practice_form_steps.py:74 <PASSED>- Field name -> email showing error, changed color from -> gainsboro to -> crimson
+[32mINFO    [0m test_practice_form_steps:test_practice_form_steps.py:76 ======================================================================
+[32mINFO    [0m test_practice_form_steps:test_practice_form_steps.py:77 Successfully completed the test
+[32mINFO    [0m test_practice_form_steps:test_practice_form_steps.py:78 ======================================================================
+[32mINFO    [0m POM.Base:Base.py:32 Waiting 10 seconds for Success Popup visibility
+[32mINFO    [0m test_practice_form_steps:test_practice_form_steps.py:68 <PASSED>- Success popup did not appeared
+[32mINFO    [0m conftest:conftest.py:35 ======================================================================
+[32mINFO    [0m conftest:conftest.py:36 Closing chrome browser
+[32mINFO    [0m conftest:conftest.py:37 ======================================================================

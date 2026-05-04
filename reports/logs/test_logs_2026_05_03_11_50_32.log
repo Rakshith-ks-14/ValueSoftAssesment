@@ -1,0 +1,199 @@
+2026-05-03 11:50:33,270 | INFO | conftest | ======================================================================
+2026-05-03 11:50:33,270 | INFO | conftest | Initializing chrome browser
+2026-05-03 11:50:33,270 | INFO | conftest | ======================================================================
+2026-05-03 11:50:33,270 | INFO | conftest | ======================================================================
+2026-05-03 11:50:33,270 | INFO | conftest | Starting test :: test_success_form_submission[chrome] to verify checkbox
+2026-05-03 11:50:33,270 | INFO | conftest | ======================================================================
+2026-05-03 11:50:38,641 | INFO | POM.Base | Opening url: https://demoqa.com
+2026-05-03 11:50:46,138 | INFO | POM.Base | Waiting 10 seconds for https://demoqa.com visibility
+2026-05-03 11:50:46,202 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:50:47,340 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:50:48,464 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:50:49,575 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:50:50,672 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:50:51,749 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:50:52,836 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:50:53,923 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:50:55,026 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:50:56,113 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:50:56,226 | INFO | POM.Base | Waiting 10 seconds for Book Page visibility
+2026-05-03 11:50:56,828 | INFO | POM.Base | Successfully navigated to "Books" page
+2026-05-03 11:50:57,180 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:51:11,290 | INFO | test_books_store_steps | <PASSED>- Length matched successfully
+2026-05-03 11:51:11,290 | INFO | test_books_store_steps | <PASSED>- The GUI data -> {'title': 'Git Pocket Guide', 'author': 'Richard E. Silverman', 'publisher': "O'Reilly Media"} is matching with API data -> {'title': 'Git Pocket Guide', 'author': 'Richard E. Silverman', 'publisher': "O'Reilly Media"}
+2026-05-03 11:51:11,290 | INFO | test_books_store_steps | <PASSED>- The GUI data -> {'title': 'Learning JavaScript Design Patterns', 'author': 'Addy Osmani', 'publisher': "O'Reilly Media"} is matching with API data -> {'title': 'Learning JavaScript Design Patterns', 'author': 'Addy Osmani', 'publisher': "O'Reilly Media"}
+2026-05-03 11:51:11,290 | INFO | test_books_store_steps | <PASSED>- The GUI data -> {'title': 'Designing Evolvable Web APIs with ASP.NET', 'author': 'Glenn Block et al.', 'publisher': "O'Reilly Media"} is matching with API data -> {'title': 'Designing Evolvable Web APIs with ASP.NET', 'author': 'Glenn Block et al.', 'publisher': "O'Reilly Media"}
+2026-05-03 11:51:11,290 | INFO | test_books_store_steps | <PASSED>- The GUI data -> {'title': 'Speaking JavaScript', 'author': 'Axel Rauschmayer', 'publisher': "O'Reilly Media"} is matching with API data -> {'title': 'Speaking JavaScript', 'author': 'Axel Rauschmayer', 'publisher': "O'Reilly Media"}
+2026-05-03 11:51:11,290 | INFO | test_books_store_steps | <PASSED>- The GUI data -> {'title': "You Don't Know JS", 'author': 'Kyle Simpson', 'publisher': "O'Reilly Media"} is matching with API data -> {'title': "You Don't Know JS", 'author': 'Kyle Simpson', 'publisher': "O'Reilly Media"}
+2026-05-03 11:51:11,290 | INFO | test_books_store_steps | <PASSED>- The GUI data -> {'title': 'Programming JavaScript Applications', 'author': 'Eric Elliott', 'publisher': "O'Reilly Media"} is matching with API data -> {'title': 'Programming JavaScript Applications', 'author': 'Eric Elliott', 'publisher': "O'Reilly Media"}
+2026-05-03 11:51:11,290 | INFO | test_books_store_steps | <PASSED>- The GUI data -> {'title': 'Eloquent JavaScript, Second Edition', 'author': 'Marijn Haverbeke', 'publisher': 'No Starch Press'} is matching with API data -> {'title': 'Eloquent JavaScript, Second Edition', 'author': 'Marijn Haverbeke', 'publisher': 'No Starch Press'}
+2026-05-03 11:51:11,290 | INFO | test_books_store_steps | <PASSED>- The GUI data -> {'title': 'Understanding ECMAScript 6', 'author': 'Nicholas C. Zakas', 'publisher': 'No Starch Press'} is matching with API data -> {'title': 'Understanding ECMAScript 6', 'author': 'Nicholas C. Zakas', 'publisher': 'No Starch Press'}
+2026-05-03 11:51:11,290 | INFO | test_books_store_steps | ======================================================================
+2026-05-03 11:51:11,290 | INFO | test_books_store_steps | Successfully completed the test
+2026-05-03 11:51:11,290 | INFO | test_books_store_steps | ======================================================================
+2026-05-03 11:51:11,327 | INFO | conftest | ======================================================================
+2026-05-03 11:51:11,327 | INFO | conftest | Closing chrome browser
+2026-05-03 11:51:11,327 | INFO | conftest | ======================================================================
+2026-05-03 11:51:13,638 | INFO | conftest | ======================================================================
+2026-05-03 11:51:13,638 | INFO | conftest | Initializing chrome browser
+2026-05-03 11:51:13,654 | INFO | conftest | ======================================================================
+2026-05-03 11:51:13,654 | INFO | conftest | ======================================================================
+2026-05-03 11:51:13,654 | INFO | conftest | Starting test :: test_checkbox_tree[chrome] to verify checkbox
+2026-05-03 11:51:13,654 | INFO | conftest | ======================================================================
+2026-05-03 11:51:19,128 | INFO | POM.Base | Opening url: https://demoqa.com
+2026-05-03 11:51:24,984 | INFO | POM.Base | Waiting 10 seconds for https://demoqa.com visibility
+2026-05-03 11:51:25,026 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:51:25,130 | INFO | POM.Base | Waiting 10 seconds for Element Page visibility
+2026-05-03 11:51:25,166 | INFO | POM.Base | Successfully navigated to "Elements" page
+2026-05-03 11:51:25,179 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:51:25,305 | INFO | POM.Base | Waiting 10 seconds for Checkbox Page visibility
+2026-05-03 11:51:25,862 | INFO | POM.Base | Successfully navigated to "Checkbox" page
+2026-05-03 11:51:25,878 | INFO | POM.Base | Expanding all the checkbox tree
+2026-05-03 11:51:26,222 | INFO | POM.Base | Successfully expanded
+2026-05-03 11:51:26,222 | INFO | POM.Base | Clicking on the checkbox -> Documents
+2026-05-03 11:51:26,236 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:51:26,327 | INFO | POM.Base | Checkbox -> Documents clicked successfully
+2026-05-03 11:51:26,328 | INFO | POM.Base | Fetching leaf nodes check status under parent -> Documents
+2026-05-03 11:51:26,328 | INFO | POM.Base | Fetching entire checkbox tree structure
+2026-05-03 11:51:26,530 | INFO | POM.Base | Successfully fetched tree structure data
+2026-05-03 11:51:26,894 | INFO | test_checkbox_steps | <PASSED>- All child nodes below parent node -> Documents were selected successfully
+2026-05-03 11:51:26,894 | INFO | test_checkbox_steps | ======================================================================
+2026-05-03 11:51:26,894 | INFO | test_checkbox_steps | Successfully completed the test
+2026-05-03 11:51:26,894 | INFO | test_checkbox_steps | ======================================================================
+2026-05-03 11:51:26,917 | INFO | conftest | ======================================================================
+2026-05-03 11:51:26,917 | INFO | conftest | Closing chrome browser
+2026-05-03 11:51:26,917 | INFO | conftest | ======================================================================
+2026-05-03 11:51:29,158 | INFO | conftest | ======================================================================
+2026-05-03 11:51:29,158 | INFO | conftest | Initializing chrome browser
+2026-05-03 11:51:29,158 | INFO | conftest | ======================================================================
+2026-05-03 11:51:29,158 | INFO | conftest | ======================================================================
+2026-05-03 11:51:29,158 | INFO | conftest | Starting test :: test_dynamic_properties[chrome] to verify checkbox
+2026-05-03 11:51:29,158 | INFO | conftest | ======================================================================
+2026-05-03 11:51:34,597 | INFO | POM.Base | Opening url: https://demoqa.com
+2026-05-03 11:51:40,885 | INFO | POM.Base | Waiting 10 seconds for https://demoqa.com visibility
+2026-05-03 11:51:40,928 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:51:41,046 | INFO | POM.Base | Waiting 10 seconds for Elements Page visibility
+2026-05-03 11:51:41,097 | INFO | POM.Base | Successfully navigated to "Elements" page
+2026-05-03 11:51:41,122 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:51:42,222 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:51:42,377 | INFO | POM.Base | Waiting 10 seconds for Dynamic Properties Page visibility
+2026-05-03 11:51:42,461 | INFO | POM.Base | Successfully navigated to "Dynamic Properties" page
+2026-05-03 11:51:42,462 | INFO | POM.Base | Waiting 30 seconds for Dynamic Button visibility
+2026-05-03 11:51:47,668 | INFO | test_dynamic_property_steps | <PASSED>- Dynamic button loaded successfully after some time
+2026-05-03 11:51:48,401 | INFO | POM.Base | Waiting 30 seconds for Dynamic Button visibility
+2026-05-03 11:51:53,713 | INFO | test_dynamic_property_steps | <PASSED>- Dynamic button successfully color change from -> white to -> crimson
+2026-05-03 11:51:53,713 | INFO | test_dynamic_property_steps | ======================================================================
+2026-05-03 11:51:53,713 | INFO | test_dynamic_property_steps | Successfully completed the test
+2026-05-03 11:51:53,713 | INFO | test_dynamic_property_steps | ======================================================================
+2026-05-03 11:51:53,745 | INFO | conftest | ======================================================================
+2026-05-03 11:51:53,745 | INFO | conftest | Closing chrome browser
+2026-05-03 11:51:53,745 | INFO | conftest | ======================================================================
+2026-05-03 11:51:56,058 | INFO | conftest | ======================================================================
+2026-05-03 11:51:56,058 | INFO | conftest | Initializing chrome browser
+2026-05-03 11:51:56,058 | INFO | conftest | ======================================================================
+2026-05-03 11:51:56,058 | INFO | conftest | ======================================================================
+2026-05-03 11:51:56,058 | INFO | conftest | Starting test :: test_success_form_submission[chrome] to verify checkbox
+2026-05-03 11:51:56,058 | INFO | conftest | ======================================================================
+2026-05-03 11:52:01,670 | INFO | POM.Base | Opening url: https://demoqa.com
+2026-05-03 11:52:07,170 | INFO | POM.Base | Waiting 10 seconds for https://demoqa.com visibility
+2026-05-03 11:52:07,215 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:07,319 | INFO | POM.Base | Waiting 10 seconds for Form Page visibility
+2026-05-03 11:52:07,363 | INFO | POM.Base | Successfully navigated to "Form" page
+2026-05-03 11:52:07,381 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:07,475 | INFO | POM.Base | Waiting 10 seconds for Practice Form visibility
+2026-05-03 11:52:08,030 | INFO | POM.Base | Successfully navigated to "Practice Form" page
+2026-05-03 11:52:08,447 | INFO | POM.Base | Filling First Name -> Rakshith and Last Name -> KS
+2026-05-03 11:52:08,465 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:08,747 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:08,892 | INFO | POM.Base | Filling Email ID -> rakshith@gmail.com
+2026-05-03 11:52:08,910 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:09,082 | INFO | POM.Base | Filling Gender -> Male
+2026-05-03 11:52:09,096 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:09,270 | INFO | POM.Base | Filling Mobile No. -> 1234567890
+2026-05-03 11:52:09,285 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:09,662 | INFO | POM.Base | Filling Year -> 1996, Month -> January and Date -> 14
+2026-05-03 11:52:09,676 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:09,836 | INFO | POM.Base | Waiting 10 seconds for Select Option visibility
+2026-05-03 11:52:10,093 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:10,215 | INFO | POM.Base | Clicking submit button
+2026-05-03 11:52:10,230 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:10,375 | INFO | POM.Base | Waiting 10 seconds for Success Popup visibility
+2026-05-03 11:52:22,687 | INFO | conftest | ======================================================================
+2026-05-03 11:52:22,687 | INFO | conftest | Closing chrome browser
+2026-05-03 11:52:22,687 | INFO | conftest | ======================================================================
+2026-05-03 11:52:25,229 | INFO | conftest | ======================================================================
+2026-05-03 11:52:25,229 | INFO | conftest | Initializing chrome browser
+2026-05-03 11:52:25,229 | INFO | conftest | ======================================================================
+2026-05-03 11:52:25,229 | INFO | conftest | ======================================================================
+2026-05-03 11:52:25,238 | INFO | conftest | Starting test :: test_invalid_form_submission[chrome] to verify checkbox
+2026-05-03 11:52:25,238 | INFO | conftest | ======================================================================
+2026-05-03 11:52:31,342 | INFO | POM.Base | Opening url: https://demoqa.com
+2026-05-03 11:52:40,396 | INFO | POM.Base | Waiting 10 seconds for https://demoqa.com visibility
+2026-05-03 11:52:40,443 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:40,525 | INFO | POM.Base | Waiting 10 seconds for Form Page visibility
+2026-05-03 11:52:41,079 | INFO | POM.Base | Successfully navigated to "Form" page
+2026-05-03 11:52:41,100 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:41,196 | INFO | POM.Base | Waiting 10 seconds for Practice Form visibility
+2026-05-03 11:52:41,245 | INFO | POM.Base | Successfully navigated to "Practice Form" page
+2026-05-03 11:52:41,281 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:41,848 | INFO | POM.Base | Filling First Name ->  and Last Name -> KS
+2026-05-03 11:52:41,868 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:42,039 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:42,169 | INFO | POM.Base | Filling Email ID -> rakshith@gmail.com
+2026-05-03 11:52:42,173 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:42,423 | INFO | POM.Base | Filling Gender -> Male
+2026-05-03 11:52:42,439 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:42,545 | INFO | POM.Base | Filling Mobile No. -> 1234567890
+2026-05-03 11:52:42,557 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:42,740 | INFO | POM.Base | Filling Year -> 1996, Month -> January and Date -> 14
+2026-05-03 11:52:42,740 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:43,078 | INFO | POM.Base | Waiting 10 seconds for Select Option visibility
+2026-05-03 11:52:43,287 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:43,417 | INFO | POM.Base | Clicking submit button
+2026-05-03 11:52:43,441 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:52:43,559 | INFO | POM.Base | Waiting 10 seconds for Success Popup visibility
+2026-05-03 11:52:53,930 | INFO | test_practice_form_steps | <PASSED>- Success popup did not appeared
+2026-05-03 11:52:53,940 | INFO | conftest | ======================================================================
+2026-05-03 11:52:53,940 | INFO | conftest | Closing chrome browser
+2026-05-03 11:52:53,940 | INFO | conftest | ======================================================================
+2026-05-03 11:52:57,940 | INFO | conftest | ======================================================================
+2026-05-03 11:52:57,940 | INFO | conftest | Initializing chrome browser
+2026-05-03 11:52:57,940 | INFO | conftest | ======================================================================
+2026-05-03 11:52:57,943 | INFO | conftest | ======================================================================
+2026-05-03 11:52:57,943 | INFO | conftest | Starting test :: test_form_field_validation[chrome] to verify checkbox
+2026-05-03 11:52:57,943 | INFO | conftest | ======================================================================
+2026-05-03 11:53:03,293 | INFO | POM.Base | Opening url: https://demoqa.com
+2026-05-03 11:53:08,745 | INFO | POM.Base | Waiting 10 seconds for https://demoqa.com visibility
+2026-05-03 11:53:08,789 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:12,984 | INFO | POM.Base | Waiting 10 seconds for Form Page visibility
+2026-05-03 11:53:13,032 | INFO | POM.Base | Successfully navigated to "Form" page
+2026-05-03 11:53:13,052 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:13,145 | INFO | POM.Base | Waiting 10 seconds for Practice Form visibility
+2026-05-03 11:53:13,202 | INFO | POM.Base | Successfully navigated to "Practice Form" page
+2026-05-03 11:53:13,229 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:13,899 | INFO | POM.Base | Filling First Name -> Rakshith and Last Name -> KS
+2026-05-03 11:53:13,920 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:14,096 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:14,244 | INFO | POM.Base | Filling Email ID -> abc123
+2026-05-03 11:53:14,259 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:14,398 | INFO | POM.Base | Filling Gender -> Male
+2026-05-03 11:53:14,410 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:14,511 | INFO | POM.Base | Filling Mobile No. -> 1234567890
+2026-05-03 11:53:14,528 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:14,715 | INFO | POM.Base | Filling Year -> 1996, Month -> January and Date -> 14
+2026-05-03 11:53:14,732 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:14,889 | INFO | POM.Base | Waiting 10 seconds for Select Option visibility
+2026-05-03 11:53:15,347 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:15,487 | INFO | POM.Base | Clicking submit button
+2026-05-03 11:53:15,549 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:15,703 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:16,843 | INFO | POM.Base | Waiting 10 seconds for element click ability
+2026-05-03 11:53:17,026 | INFO | test_practice_form_steps | <PASSED>- Field name -> email showing error, changed color from -> gainsboro to -> crimson
+2026-05-03 11:53:17,026 | INFO | test_practice_form_steps | ======================================================================
+2026-05-03 11:53:17,026 | INFO | test_practice_form_steps | Successfully completed the test
+2026-05-03 11:53:17,026 | INFO | test_practice_form_steps | ======================================================================
+2026-05-03 11:53:17,028 | INFO | POM.Base | Waiting 10 seconds for Success Popup visibility
+2026-05-03 11:53:27,307 | INFO | test_practice_form_steps | <PASSED>- Success popup did not appeared
+2026-05-03 11:53:27,323 | INFO | conftest | ======================================================================
+2026-05-03 11:53:27,323 | INFO | conftest | Closing chrome browser
+2026-05-03 11:53:27,323 | INFO | conftest | ======================================================================
