@@ -99,6 +99,8 @@ How to Execute Tests
 One of the key advantages of this framework is its fully automated test discovery and execution.
 
 Simple Execution Command Run In cmd
+- cd path/to/your/project
+- python -m pip install -r requirements.txt or pip install -r requirements.txt
 - pytest
 
 That’s it — no additional parameters or setup required.
