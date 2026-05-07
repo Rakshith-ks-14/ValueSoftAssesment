@@ -10,7 +10,7 @@ import datetime
 
 log = get_logger(__name__)
 
-@pytest.fixture(scope='function', params=['chrome'])
+@pytest.fixture(scope='function', params=['chrome', 'edge'])
 def web_driver(request):
     options = Options()
     options.add_argument("--start-maximized")
