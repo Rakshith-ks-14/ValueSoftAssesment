@@ -36,6 +36,7 @@ class Checkbox(Base):
 
     def expand_tree(self):
         self.log.info('Expanding all the checkbox tree')
+        self.scroll_to_top()
         tree = self.driver.find_elements(*self.plus_icon_xpath)
         while tree:
             for ele in tree:
