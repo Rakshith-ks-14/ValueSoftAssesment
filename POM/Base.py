@@ -78,3 +78,6 @@ class Base:
             sum((mcolors.to_rgb(mcolors.CSS4_COLORS[name])[i] - (r/255, g/255, b/255)[i])**2 for i in range(3))
         )
         return closest_name
+
+    def scroll_to_top(self):
+        self.driver.execute_script("window.scrollTo(0, 0);")
